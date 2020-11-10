@@ -42,7 +42,7 @@ Request a specific selection of currencies in order to reduce server load, query
 
 Find a shortened version of the API's Documentation [here](https://metals-api.com/documentation).
 
-Interactive example queries, a variety of code examples (including PHP/CURL, jQuery.ajax and Java), integration guides, useful downloads and much more is available at [https://metals-api.com/documentation](https://metals-api.com/documentationn).
+Interactive example queries, a variety of code examples (including PHP/CURL, jQuery.ajax and Java), integration guides, useful downloads and much more is available at [https://metals-api.com/documentation](https://metals-api.com/documentation).
 
 ## Customer Support
 Need any assistance? [Get in touch with Customer Support](mailto:support@metals-api.com?subject=[Github Support]).
